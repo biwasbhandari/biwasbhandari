@@ -22,6 +22,7 @@ Diving into the enchanting world of Web Development with a focus on:
 ## 🚀 Learning Expedition
 Goals? Understanding the fundamentals of web development, including:
 - Node.js
+
 - MySQL
 
 ## 🛠️ Projects Portfolio
@@ -29,5 +30,7 @@ Goals? Understanding the fundamentals of web development, including:
 - **Web Adventures:** Exploring various aspects of web technologies.
 
 ## 🔗 Let's Connect!
-I'm all about collaborations and discussions! Let's link up on [Twitter](https://twitter.com/yourtwitterhandle) and cook up something awesome together!
+I'm all about collaborations and discussions! Let's link up on [Twitter](https://twitter.com/biwas2059) and cook up something awesome together!
 
+## Note!
+I lost access to my old github id [s-biwas(https://github.com/s-biwas)] and this is my new id!
