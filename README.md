@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [biwasbhandari.com.np](biwasbhandari.com.np)
+- 👨‍💻 All of my projects are available at [biwasbhandari.com.np](https://www.biwasbhandari.com.np)
 
 - 💬 Ask me about **react, nextjs**
 
