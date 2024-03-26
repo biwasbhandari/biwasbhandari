@@ -4,9 +4,9 @@
 - 🎓 I have 1 year of experience working with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**.
 - 🌱 Currently, I'm diving into **Python** and exploring the fascinating world of **Generative AI**.
 
-<div align="center">
-   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM5ajNyd2pxcGJpbXM5ZmIyNmoyejM3eWZ6MG9wZ3BzMmJyeGF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt = "Python" width = "300" height = "300">
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQ4bTJnNzl1eThhNGhhZzc2aGM3YXRzbWkxcnJvMjN2anJ1NXQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" alt="Coding GIF" width="500" height="300">
+<div align = "center">
+   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFoczRiam82eXNnZnJkbXlkeDFycWQ2aDMxamN3ZDJkZm9zbHV1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" alt = "Python">
+
 </div>
 
 🚀 I'm passionate about building innovative projects and exploring new technologies.
