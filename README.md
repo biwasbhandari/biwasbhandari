@@ -19,3 +19,8 @@
 
 🎨 Let's create something amazing together!
 
+📹 Check out my intro video [here]:
+
+
+
+[![Intro Video](https://img.youtube.com/vi/VmZ8eZYHBOs/0.jpg)](https://youtu.be/VmZ8eZYHBOs?si=i6zyzFeMguOPYEhL)
