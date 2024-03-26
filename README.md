@@ -5,7 +5,7 @@
 - 🌱 Currently, I'm diving into **Python** and exploring the fascinating world of **Generative AI**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="500" height="300">
+  <img src= https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN4end4b2IyZG12cHZxZTU2c3hnemtwa3FxeWdyOWlyaHpqb3E2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif alt="Coding GIF" width="500" height="300">
 </div>
 
 🚀 I'm passionate about building innovative projects and exploring new technologies.
