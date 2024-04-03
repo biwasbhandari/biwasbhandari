@@ -8,10 +8,9 @@
 
 [![Intro Video](https://img.youtube.com/vi/jdTZ3lz4ofo/0.jpg)](https://youtu.be/jdTZ3lz4ofo?si=2Ncw9cX2_qbcODCD)
 
-### 💬 **Let's Connect:**
+### 💬 **Find Me on Linkedin or X**
 - [LinkedIn](https://www.linkedin.com/in/biwas-bhandari/)
 - [Twitter](https://twitter.com/x_biwas)
-- Email: [biwas2059@gmail.com](mailto:biwas2059@gmail.com)
 
 ### My all-time favorite show is:
 
