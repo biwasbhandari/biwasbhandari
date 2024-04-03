@@ -14,7 +14,7 @@
 ### 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/biwas-bhandari/)
 - [Twitter](https://twitter.com/x_biwas)
-- Email: [biwas@example.com](mailto:biwas2059@gmail.com)
+- Email: [biwas@gmail.com](mailto:biwas2059@gmail.com)
 
 🌟 Feel free to reach out for collaboration, project ideas, or just to say hi! I'm always open to new opportunities and discussions.
 
