@@ -23,5 +23,5 @@
 📹 Check out my intro video:
 
 
+[![Intro Video](https://img.youtube.com/vi/jdTZ3lz4ofo/0.jpg)](https://youtu.be/jdTZ3lz4ofo?si=2Ncw9cX2_qbcODCD)
 
-[![Intro Video](https://img.youtube.com/vi/VmZ8eZYHBOs/0.jpg)](https://youtu.be/VmZ8eZYHBOs?si=i6zyzFeMguOPYEhL)
