@@ -3,6 +3,7 @@
 👨‍💻 About Me:
 - 🎓 I have 1 year of experience working with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**.
 - 🌱 Currently, I'm diving into **Python** and exploring the fascinating world of **Generative AI**.
+### My all time favourite show is:
 
 <div>
    <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyMm80am5wZ2QwdGxodDF6dHRuNTN4bTRqNjJjeG4xdjhqM3lkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hukVNBE2OcLCg/giphy.gif" alt = "Python">
