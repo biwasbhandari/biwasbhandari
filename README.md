@@ -1,28 +1,30 @@
 # Hi there! I'm Biwas Bhandari
 
-👨‍💻 About Me:
+👨‍💻 **About Me:**
 - 🎓 I have 1 year of experience working with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**.
 - 🌱 Currently, I'm diving into **Python** and exploring the fascinating world of **Generative AI**.
-### My all time favourite show is:
+
+### My all-time favorite show is:
 
 <div>
-   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyMm80am5wZ2QwdGxodDF6dHRuNTN4bTRqNjJjeG4xdjhqM3lkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hukVNBE2OcLCg/giphy.gif" alt = "Python">
-
+   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNudHVqeHQ4aHBzYmI1MDJqdzQ5NGZ3NG1pbzdwZzBtem9jNTQ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlyXjqAYnOAoVl6/giphy.gif" alt = "Breaking Bad" width = "900">
 </div>
+<div>
+   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxYWZkNmtseTBoMXdiemhoYnY4YnB2ZnpiMGh1dXlwaHJkOWhzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nCfZ1mDXGcyk/giphy.gif" alt = "Godddam Right" width = "900">
+</div>
+<div><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlZzRzc2h1M21uN3Rhd2JrNmxpYWF5NDF3c2ZiOWZjbWNrcW9zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRWAInZmzzBm0/giphy.gif" alt = "Bye" width = "900"></div>
 
-🚀 I'm passionate about building innovative projects and exploring new technologies.
+🚀 **I'm passionate about building innovative projects and exploring new technologies.**
 
-### 💬 Let's Connect:
+### 💬 **Let's Connect:**
 - [LinkedIn](https://www.linkedin.com/in/biwas-bhandari/)
 - [Twitter](https://twitter.com/x_biwas)
 - Email: [biwas2059@gmail.com](mailto:biwas2059@gmail.com)
 
-🌟 Feel free to reach out for collaboration, project ideas, or just to say hi! I'm always open to new opportunities and discussions.
+🌟 **Feel free to reach out for collaboration, project ideas, or just to say hi! I'm always open to new opportunities and discussions.**
 
-🎨 Let's create something amazing together!
+🎨 **Let's create something amazing together!**
 
-📹 Check out my intro video:
-
+📹 **Check out my intro video:**
 
 [![Intro Video](https://img.youtube.com/vi/jdTZ3lz4ofo/0.jpg)](https://youtu.be/jdTZ3lz4ofo?si=2Ncw9cX2_qbcODCD)
-
