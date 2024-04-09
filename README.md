@@ -17,7 +17,4 @@
 <div>
    <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNudHVqeHQ4aHBzYmI1MDJqdzQ5NGZ3NG1pbzdwZzBtem9jNTQ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlyXjqAYnOAoVl6/giphy.gif" alt = "Breaking Bad" width = "500">
 </div>
-<div>
-   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxYWZkNmtseTBoMXdiemhoYnY4YnB2ZnpiMGh1dXlwaHJkOWhzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nCfZ1mDXGcyk/giphy.gif" alt = "Godddam Right" width = "500">
-</div>
-<div><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFzNTFrMzQyc3ZjbXBkdmQzbmV3NWk3OG5wa2gyNm91MHJldW93diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQJ2DORvilpEk/giphy.gif" alt = "Bye" width = "500"></div>
+
