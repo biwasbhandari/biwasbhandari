@@ -8,8 +8,9 @@
 
 [![Intro Video](https://img.youtube.com/vi/jdTZ3lz4ofo/0.jpg)](https://youtu.be/jdTZ3lz4ofo?si=2Ncw9cX2_qbcODCD)
 
-### 💬 **Find Me on Linkedin or X**
+### 💬 **Find Me on Linkedin, Twitter or Leetcode**
 - [LinkedIn](https://www.linkedin.com/in/biwas-bhandari/)
 - [Twitter](https://twitter.com/x_biwas)
+- [LeetCode](https://leetcode.com/xbiwas).
 
 
