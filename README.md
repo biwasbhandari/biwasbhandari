@@ -6,11 +6,3 @@
 
 🚀 **I'm passionate about building innovative projects and exploring new technologies.**
 
-### **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/biwas-bhandari/)
-- [Twitter](https://twitter.com/x_biwas)
-- Email: [biwas2059@gmail.com](mailto:biwas2059@gmail.com)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xbiwas&" alt="xbiwas" /></p>
