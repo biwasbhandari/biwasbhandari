@@ -1,15 +1,8 @@
-# Biwas Bhandari
+# Hey there
 
-![Biwas Bhandari](https://www.biwasbhandari.com.np/assets/img/about.jpg)
+## I make AI products using Langchain, Nextjs and Typescript.
+![Biwas Bhandari](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
 
-## Making AI products using Langchain
 
 Checkout my portfolio [here](https://www.biwasbhandari.com.np)
 
-## Skills
-
-- Next.js
-- React
-- Langchain
-- Supabase
-- MongoDB
