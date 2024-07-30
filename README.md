@@ -1,6 +1,3 @@
-# Checkout my portfolio [here](https://www.biwasbhandari.com.np)
-## I make AI products using Langchain, Nextjs and Typescript.
-![Biwas Bhandari](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)
+# Hello there! 👋
 
-
-
+I create AI applications using **Langchain**, **TypeScript**, and existing **LLMs** 🤖 to deliver innovative solutions.
