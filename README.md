@@ -1,3 +1,2 @@
-# Hello there! 👋
+# Genertive AI application Developer @ https://github.com/startino
 
-I create AI applications using **Langchain**, **TypeScript**, and existing **LLMs** 🤖 to deliver innovative solutions.
