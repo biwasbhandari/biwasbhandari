@@ -1,16 +1,11 @@
 # Hi there 👋
 
-### I'm Biwas Bhandari!
+### I'm Biwas Bhandari
 
-🔹 **Currently building Apps using [crewAI](https://crew.ai)** to harness the power of large language models (LLMs) for developing innovative applications across web2 and web3.
+🔹 **Building with [crewAI](https://crew.ai)** to leverage large language models (LLMs) in both web2 and web3 apps.
 
 ### About Me
-I’m passionate about exploring the intersection of AI and blockchain, specifically using **Bitcoin** and **Stacks** to push the boundaries of what’s possible in web3. From smart contracts to decentralized applications (dApps), my projects aim to integrate the reliability of Bitcoin with the advanced capabilities of AI.
-
-### What I'm Working On
-- **LLM-driven apps**: Building intelligent applications that can process natural language in powerful, interactive ways.
-- **Web3 Innovations**: Developing dApps on **Bitcoin Stacks**, with a focus on improving user experience, scalability, and privacy in the decentralized world.
-- **Bridging Web2 and Web3**: Creating accessible solutions that bring the benefits of blockchain to traditional web ecosystems.
+Exploring the intersection of **AI** and **Blockchain** using **Bitcoin** and **Stacks** to create dApps that enhance user experience, scalability, and privacy in web3. My focus is on making powerful, LLM-driven solutions that bridge web2 and web3.
 
 ---
 
@@ -23,8 +18,7 @@ I’m passionate about exploring the intersection of AI and blockchain, specific
 
 ---
 
-### 🌍 Let's Connect
-- **GitHub**: [https://github.com/biwasbhandari]
-- **Twitter**: [https://x.com/biwasbtc]
-- **LinkedIn**: [https://www.linkedin.com/in/biwas-bhandari/]
-
+### 🌐 Connect
+- **GitHub**: [biwasbhandari](https://github.com/biwasbhandari)
+- **Twitter**: [biwasbtc](https://x.com/biwasbtc)
+- **LinkedIn**: [biwas-bhandari](https://www.linkedin.com/in/biwas-bhandari/)
