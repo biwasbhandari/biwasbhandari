@@ -2,7 +2,7 @@
 
 ### I'm Biwas Bhandari
 
-🔹 **Building with [crewAI](https://crew.ai)** to leverage large language models (LLMs) in both web2 and web3 apps.
+🔹 **Building with [crewAI](https://crewai.com)** to leverage large language models (LLMs) in both web2 and web3 apps.
 
 ### About Me
 Exploring the intersection of **AI** and **Blockchain** using **Bitcoin** and **Stacks** to create dApps that enhance user experience, scalability, and privacy in web3. My focus is on making powerful, LLM-driven solutions that bridge web2 and web3.
