@@ -20,5 +20,5 @@ Exploring the intersection of **AI** and **Blockchain** using **Bitcoin** and **
 
 ### 🌐 Connect
 - **GitHub**: [biwasbhandari](https://github.com/biwasbhandari)
-- **Twitter**: [biwasbtc](https://x.com/biwasbtc)
+- **Twitter**: [biwas_](https://x.com/biwas_)
 - **LinkedIn**: [biwas-bhandari](https://www.linkedin.com/in/biwas-bhandari/)
