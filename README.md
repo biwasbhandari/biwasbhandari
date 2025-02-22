@@ -2,23 +2,20 @@
 
 ### I'm Biwas Bhandari
 
-🔹 **Building with [crewAI](https://crewai.com)** to leverage large language models (LLMs) in both web2 and web3 apps.
+**Building with [LangChain](https://www.langchain.com), [LangGraph](https://www.langchain.com/langgraph), and [Supabase](https://supabase.com)** to harness the power of large language models (LLMs) in modern applications.
 
 ### About Me
-Exploring the intersection of **AI** and **Blockchain** using **Bitcoin** and **Stacks** to create dApps that enhance user experience, scalability, and privacy in web3. My focus is on making powerful, LLM-driven solutions that bridge web2 and web3.
+I'm passionate about **Artificial Intelligence**, focusing on creating innovative, LLM-driven solutions that enhance user experiences. I believe AI agents will transform how we work, and I'd rather build that future than watch it happen.
 
 ---
 
 ### 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Stacks](https://img.shields.io/badge/-Stacks-5546FF?logo=blockstack&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?logo=langgraph&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
 
 ---
-
-### 🌐 Connect
-- **GitHub**: [biwasbhandari](https://github.com/biwasbhandari)
-- **Twitter**: [biwas_](https://x.com/biwas_)
-- **LinkedIn**: [biwas-bhandari](https://www.linkedin.com/in/biwas-bhandari/)
