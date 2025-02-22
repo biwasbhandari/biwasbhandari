@@ -1,7 +1,3 @@
-# Hi there 👋
-
-### I'm Biwas Bhandari
-
 **Building with [LangChain](https://www.langchain.com), [LangGraph](https://www.langchain.com/langgraph), and [Supabase](https://supabase.com)** to harness the power of large language models (LLMs) in modern applications.
 
 ### About Me
